@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967712162065",
+    "project_id": "atm-app-8854e",
+    "storage_bucket": "atm-app-8854e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967712162065:android:f0788d7c460907e676ccb0",
+        "android_client_info": {
+          "package_name": "com.example.atm_app_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967712162065-2jcp1l55e7vr8dd3h9llmhinb6ngt2pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atm_app_v2",
+            "certificate_hash": "70587194cc4364b4d00420e4c6898f7161fbf864"
+          }
+        },
+        {
+          "client_id": "967712162065-qh07u040bdee5n7dts5ahurot5h6a557.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlluc56a9LBt4-qClhYvIQdgwGjSqFXsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967712162065-qh07u040bdee5n7dts5ahurot5h6a557.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
